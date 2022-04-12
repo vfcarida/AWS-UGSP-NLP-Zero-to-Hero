@@ -16,12 +16,13 @@ Código: [Download](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/raw/ma
 [Embeddings](http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
 
 Extras
-[AWS SAGEMAKER STUDIO LAB](https://studiolab.sagemaker.aws/
-https://aws.amazon.com/sagemaker/studio-lab/)
+AWS SAGEMAKER STUDIO LAB
+[Link 1](https://studiolab.sagemaker.aws/)
+[Link 2](https://aws.amazon.com/sagemaker/studio-lab/)
 
 [AWS COMPREHEND](https://aws.amazon.com/comprehend/)
 
-Bibliotecas importantes para NLP
+Bibliotecas importantes para NLP \n
 [NLTK](https://www.nltk.org/howto/portuguese_en.html)
 
 [SPACY](https://spacy.io/models/pt)
