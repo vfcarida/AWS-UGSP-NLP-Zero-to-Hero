@@ -5,17 +5,26 @@
 
 Vídeo: https://www.youtube.com/watch?v=Yrdmkr750_k
 
-Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_1.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_1.pdf)
+Apresentação: [Download]
+(https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/raw/main/NLP_encontro1.pdf)
 
-Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_1.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_1.ipynb)
+ - [On line]
+(https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/NLP_encontro1.pdf)
+
+Código: [Download](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/raw/main/NLP_encontro1.ipynb)
+
+ - [On line]
+(https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/NLP_encontro1.ipynb)
+
+[Embeddings]
+(http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
 
 Extras
 [AWS SAGEMAKER STUDIO LAB]
 (https://studiolab.sagemaker.aws/
 https://aws.amazon.com/sagemaker/studio-lab/)
 
-[AWS COMPREHEND]
-(https://aws.amazon.com/comprehend/)
+[AWS COMPREHEND](https://aws.amazon.com/comprehend/)
 
 Bibliotecas importantes para NLP
 [NLTK]
