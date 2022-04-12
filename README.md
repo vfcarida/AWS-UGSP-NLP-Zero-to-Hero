@@ -22,11 +22,12 @@ AWS SAGEMAKER STUDIO LAB
 
 [AWS COMPREHEND](https://aws.amazon.com/comprehend/)
 
-Bibliotecas importantes para NLP \n
-[NLTK](https://www.nltk.org/howto/portuguese_en.html)
+Bibliotecas importantes para NLP
+ 
+ - [NLTK](https://www.nltk.org/howto/portuguese_en.html)
 
-[SPACY](https://spacy.io/models/pt)
+ - [SPACY](https://spacy.io/models/pt)
 
-[TEXTBLOB](https://textblob.readthedocs.io/en/dev/index.html)
+ - [TEXTBLOB](https://textblob.readthedocs.io/en/dev/index.html)
 
-[LINGUATECA](https://www.linguateca.pt/Floresta/)
+ - [LINGUATECA](https://www.linguateca.pt/Floresta/)
