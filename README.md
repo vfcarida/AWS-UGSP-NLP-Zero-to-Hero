@@ -31,3 +31,18 @@ Bibliotecas importantes para NLP
  - [TEXTBLOB](https://textblob.readthedocs.io/en/dev/index.html)
 
  - [LINGUATECA](https://www.linguateca.pt/Floresta/)
+
+## 2º encontro
+
+[Vídeo Youtube](https://www.youtube.com/watch?v=CkDb8zc5kZg)
+
+Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/raw/main/NLP_Bert.pdf)
+
+ - [On line](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/NLP_Bert.pdf)
+
+Códigos:
+ - [Exemplo Calculo Attention](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/SbS_Self_Attention.ipynb)
+ - [Vizualização Head](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/BERT_viz_head_view_bert.ipynb)
+ - [Exemplo BERT](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/NLP_BERT.ipynb)
+ - [Exemplo Transformer](https://github.com/vfcarida/AWS-UGSP-NLP-Zero-to-Hero/blob/main/transformer.ipynb)
+ - [Mais sobre Transformer](https://github.com/vfcarida/notebooks)
